@@ -27,11 +27,13 @@ npm install
 
 ```sh
 ionic serve
-``
+```
 
 ## Author
 
-👤 **gooniesDev **
+👤  **SogeNinja**
+👤  **gooniesDev**
+👤  **LonelyGoblin**
 
 
 ## Show your support
