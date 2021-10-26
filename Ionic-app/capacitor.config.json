@@ -1,0 +1,13 @@
+{
+  "appId": "ionic_password.app",
+  "appName": "Pass Manager",
+  "bundledWebRuntime": false,
+  "npmCliente": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
