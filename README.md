@@ -31,9 +31,9 @@ ionic serve
 
 ## Author
 
-👤  **SogeNinja**
-👤  **gooniesDev**
-👤  **LonelyGoblin**
+👤  **[SogeNinja](https://github.com/SogeNinja)**
+👤  **[gooniesDev](https://github.com/gooniesDev)**
+👤  **[LonelyGoblin](https://github.com/LonelyGoblin)**
 
 
 ## Show your support
